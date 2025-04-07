@@ -1,43 +1,25 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Toko Kami
+image: /img/aa.jpg
+heading: Selaginya ada, kita simpan, anda membeli
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Sebagai Kolektor, kita juga membeli dan memesan segala jenis pedang yang ada di seluruh penjuru dunia, ada kalanya dimana gudang kita berlebihan koleksian kita karena itulah kami menjual pedang-pedang surplus, kami menjual yang Asli dan juga yang Khiasan- selain itu kita juga menjual buku-buku tentang senjata tajam.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/add.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menjual senjata asli dengan kualitas terjamin (Hati-hati tajam!), dari belati sampai kapak dua tangan, dan ada juga perisai dan busur panah, tersedia juga alat perawatan senjata disaat anda membeli.
+    - image: /img/adc.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Atau mau sesuatu yang cantik untuk dipajang? di Toko Kami juga ada Senjata terukir, terhias, dan yang diselimuti berbagai batu dan logam mulia- tetapi mereka tetap tajam dan dapat melukai selayaknya senjata umumnya. Anda juga akan diberikan sertifikat barang mewah saat pembelian.
+    - image: /img/adb.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Meskipun koleksi pedang dan persenjataan kami memamerkan sejarah peralatan, penggemar sejati tahu bahwa harta karun yang sesungguhnya terletak pada pemahaman teknik, seni, dan sejarah di baliknya. Itulah sebabnya kami menawarkan pilihan buku yang berkualitas, gerbang menuju dunia senjata baja yang kaya dan kompleks, penciptaannya, dan warisannya
+    - image: /img/ada.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami juga mengerti bahwa menemukan buku atau barang koleksi yang sempurna terkadang bisa menjadi perjalanan yang panjang. Jika Anda tidak menemukan apa yang Anda cari di toko kami, jangan khawatir kami siap membantu Anda, kami mempunyai daftar pasar dan toko tepercaya tempat Anda dapat melanjutkan pencarian Anda untuk persenjataan abad pertengahan yang berkualitas, buku-buku sejarah, dan banyak lagi.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,57 +27,46 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Anda adalah keluarga
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Sebagai sesama penggemar pedang, saya ingin membuat komunitas dari sekelompok penghobi, sebagai keluarga — pada dasarnya kami adalah keluarga. Itulah sebabnya saya ingin menawarkan koleksi senjata besi dan buku-buku berkualitas, karena benda-benda itu adalah bagian dari sejarah, pembuka percakapan, dan kebanggaan.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/1a.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Frederick von Whittelsbach
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Saya tidak menyangka kualitasnya sebagus ini. Ini bisa dibilang bukan hanya sekedar replika, tapi pedang ang aslinya yang dibuat secara teliti.
+  - author: Aydin Fitzgerald
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Terima kasih banyak untuk buku-bukunya, bukunya tidak hanya keren untuk dibaca, tetapi juga benar-benar memperdalam apresiasi dan pengetahuan saya akan persenjataan. 
+full_image: /img/2a.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Menjadi member.
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+   Saat Anda bergabung menjadi member kami, Anda melakukan lebih dari sekadar mendaftar — Anda memberikan sumbangan yang berarti yang membantu kami melestarikan seni, sejarah, dan budaya persenjataan. Dukungan Anda menjaga semangat kita untuk tetap membuat konten berkualitas kepada sesama penggemar di seluruh dunia.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Donasi Kecil.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Anda menjaga kelangsungan web ini
+        - Video demonstrasi pengunaan senjata
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: '5'
+    - description: Donasi Besar
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Hak untuk menambah dan mengedit apa yang ada di web
+        - Video demonstrasi yang leluasa
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '20'
+    - description: Donasi Kustom
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Hadiah Misterius
       plan: Custom
       price: '??'
 ---
