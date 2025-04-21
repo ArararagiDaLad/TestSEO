@@ -1,29 +1,35 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Tentang Longsword
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+description: Di artikel ini, kita akan mencermati lebih dekat apa yang menjadikan pedang panjang klasik Eropa bukan sekadar peninggalan medan perang abad pertengahan, tetapi sebuah karya seni dari baja dirancang dengan tujuan tertentu, disempurnakan selama berabad-abad, dan masih dipuja hingga kini oleh para kolektor, seniman bela diri, dan perajin.
 tags:
-  - brewing
-  - chemex
+  - Longsword
+  - History
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Longsword atau pedang penjang, dengan gagang berbentuk salib yang ikonik dan bilah bermata dua, menjadi terkenal pada akhir abad ke-13 dan tetap menjadi andalan budaya bela diri Eropa hingga abad ke-17. Jauh dari sekadar senjata yang kasar, pedang ini merupakan hasil rekayasa yang disempurnakan—mampu melakukan tusukan yang tepat dan pemotongan yang dahsyat, dirancang untuk memenuhi kebutuhan pertempuran dan duel yang terus berkembang.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Faktanya, para sejarawan dan seniman bela diri modern menganggap pedang panjang sebagai salah satu senjata yang paling seimbang, efisien, dan dibuat dengan sangat indah pada masanya. Anda bahkan akan menemukan replika yang sangat akurat yang dipajang di koleksi museum dan digunakan di kalangan HEMA (Seni Bela Diri Eropa Historis) modern di mana pedang tidak hanya dikagumi, tetapi digunakan, sebagaimana mestinya.
 
-## The little secrets of Chemex brewing
+## Keahlian di Balik Pedang
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Pedang panjang klasik terdiri dari bilah lurus bermata dua—biasanya sekitar 80 sampai 120 cm yang dipasangkan dengan pegangan yang cukup panjang untuk memungkinkan kendali dua tangan, namun cukup lincah untuk satu tangan. Keseimbangannya yang menentukan terletak tepat di depan pelindung, memungkinkan gerakan yang lancar dan pengalihan cepat.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Berikut adalah beberapa hal penting (tetapi sering diabaikan) yang perlu diketahui saat memilih atau merawat pedang panjang—baik untuk dipajang atau latihan:
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+1. Selalu berinvestasi dalam tempering bilah yang tepat dan kualitas baja. Bilah dekoratif yang murah tidak akan bertahan dalam satu kali benturan.
+2. Ukur titik keseimbangan dan pusat perkusi. Pedang panjang yang bagus terasa pas di tangan.
+3. Jangan lupa untuk merawat gagangnya—terutama pegangannya.
+4. Kontrol adalah raja. Latihan memotong dengan perlahan, dengan mempertimbangkan waktu.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+## Desain Kontras
+
+Mungkin detail visual yang paling mencolok dari banyak pedang panjang tidak hanya terletak pada bilahnya, tetapi juga pada cara bentuk bertemu dengan fungsi. Sebuah karya yang setia pada sejarah sering kali menampilkan pegangan kayu yang dibungkus kulit, pelindung silang baja atau kuningan, dan gagang penghenti bau—setiap bagian dibuat tidak hanya untuk keseimbangan dan kegunaan, tetapi juga untuk menceritakan sebuah kisah.
+
+Perpaduan itu—antara alat medan perang yang fungsional dan objek estetika—adalah yang membuat pedang panjang begitu abadi. Sama seperti bagaimana pembuat kopi yang dibuat dengan baik dapat menyeimbangkan gelas laboratorium kimia dengan kayu dan kulit alami, pedang panjang mewujudkan kontras yang sama: baja tempa dingin yang dipadukan dengan kehangatan organik.
+
+Bagi para kolektor dan seniman bela diri, perpaduan antara presisi sentuhan dan jiwa historis itulah yang mengubah bilah dari sekadar objek… menjadi warisan.

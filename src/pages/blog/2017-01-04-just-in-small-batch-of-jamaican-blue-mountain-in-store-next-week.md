@@ -1,34 +1,40 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Edisi terbatas: Diskon untuk Halberd sebagai perayaan Thirty Years War'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Kami bangga mengumumkan kedatangan Diskon untuk replika Halberd khusus dalam jumlah terbatas—dibuat sebagai penghormatan kepada senjata legendaris yang digunakan sepanjang Perang Tiga Puluh Tahun.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Halberd
+  - Discount
+  - Thirty Years War
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Jumlahnya Terbatas, dan begitu habis, ya sudah. ​​Ini adalah karya yang setia pada sejarah, seimbang, dibuat untuk para kolektor, pemeran ulang, atau penggemar sejarah bela diri yang ingin memiliki sedikit warisan medan perang.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Kami berharap dapat menyediakannya pada hari Senin, dan akan tersedia untuk dibeli pada hari Selasa—tetapi perlu diingat: jumlahnya terbatas, dan permintaan akan tinggi.
 
-## A little history
+## Kenapa Halberd?
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Halberd adalah salah satu senjata tombak paling ikonik dalam sejarah Eropa—perpaduan tombak, kapak, dan kail, menjadikannya senjata serbaguna untuk memukul mundur kavaleri dan menyeret orang dari atas kuda atau kehilangan keseimbangan dalam pertempuran jarak dekat. Selama Perang Tiga Puluh Tahun (1618–1648), halberd digunakan secara luas tidak hanya oleh infanteri garis tetapi juga sebagai simbol pangkat dan wewenang.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Pada pertengahan periode perang, halberd telah menjadi senjata khas bagi sersan dan pengawal—digunakan baik dalam pertempuran maupun dalam peran seremonial. Dan hari ini? Halberd masih terlihat mengancam dan megah seperti di ladang berdarah Breitenfeld atau White Mountain.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## Secuil Sejarah di Tangan Anda
 
-## What you need to know before trying
+Setiap tombak dalam kelompok ini:
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+1. Ditempa dengan tangan menggunakan kepala baja karbon tinggi
+2. Dilengkapi dengan gagang kayu keras yang kokoh untuk tampilan dan ketahanan saat bertarung
+3. Dilengkapi dengan detail yang akurat secara historis berdasarkan desain Eropa Tengah awal abad ke-17
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Kami bahkan memberikan diskon 15% minggu ini hanya untuk merayakan peluncurannya—karena sejarah tidak seharusnya hanya tersimpan di balik kaca.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+## Yang Perlu Anda Ketahui Sebelum Membeli
+
+1. Ini bukan gantungan dinding yang dipasarkan secara massal. Ini adalah barang edisi terbatas, yang dibuat dalam jumlah kecil karena suatu alasan.
+2. Meskipun indah untuk dipajang, ini berfungsi penuh—dan harus diperlakukan dengan hormat.
+3. Jika Anda menyukai peragaan ulang, sejarah hidup, atau karya tombak HEMA, ini akan lebih dari sekadar pilihan.
+
+Siapa cepat dia dapat.

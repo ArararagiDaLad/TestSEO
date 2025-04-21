@@ -1,33 +1,34 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Memahami Pandai Besi Modern, Tradisi Berpadu dengan Teknologi
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Penjelasan bagaimana teknologi Modern membantu para panda besi untuk membuat karya yang lebih banyak dan lebih berkualitas.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Selama berabad-abad, pandai besi pedang telah menjadi seni sakral—yang diwariskan melalui magang, bekas luka, dan intuisi yang ditempa dengan api. Namun, seperti semua kerajinan lainnya, waktu membawa perubahan. Dan tahun ini, untuk pertama kalinya dalam beberapa dekade, kita melihat momentum serius dalam cara teknologi modern membentuk kembali bengkel.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Kita tidak berbicara tentang bagian-bagian pabrik yang tidak berjiwa. Kita berbicara tentang baja asli, tepi asli, dan keahlian asli yang disempurnakan—bukan digantikan—oleh peralatan presisi, perangkat lunak metalurgi, dan teknik tempering generasi berikutnya.
 
-## What the updates mean to you
+## Jadi, apa yang baru?
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Dulu, seorang pandai besi harus mengandalkan pengalaman pribadi selama bertahun-tahun, tebakan yang cermat, dan insting untuk mendapatkan baja yang tepat. Sekarang?
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+1. Alat pemetaan paduan memungkinkan pandai besi menyempurnakan kandungan karbon dan kotoran hingga ke desimal.
+2. Penempaan induksi menghasilkan panas yang sangat konsisten, mengurangi risiko lengkungan atau serat yang buruk.
+3. Pembentukan dengan bantuan CNC dapat menyiapkan profil bilah dengan presisi mesin sebelum pandai besi mengambil alih dengan penyelesaian manual.
+4. Dan protokol pendinginan digital baru (ya, itu sudah ada sekarang) membantu mengendalikan titik tegangan pada bilah yang lebih panjang seperti pedang besar atau naginata.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Hasilnya? Bilah yang tidak hanya indah dan sesuai dengan bentuk historis—tetapi juga lebih kuat, lebih tajam, dan lebih andal daripada apa pun kecuali campur tangan ilahi.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+## Mengapa Itu Penting
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Sama seperti bagaimana Specialty Coffee Association merombak Roda Rasa mereka untuk lebih mencerminkan bagaimana kita mencicipi dan menikmati kopi, dunia bilah pisau mendefinisikan ulang cara kita mengukur kualitas. Ini bukan lagi tentang apa yang tampak keren di dinding—ini tentang keahlian yang bertahan di bawah pengawasan nyata:
+Struktur butiran. Retensi tepi. Toleransi kelenturan. Keseimbangan.
+
+Di toko kami, kami bangga menyediakan pedang dan tombak yang dibuat oleh pandai besi yang merangkul masa depan dan tempaan. Ini bukan alat peraga yang diproduksi secara massal—ini adalah baja yang lahir dari keringat, api, dan sains.

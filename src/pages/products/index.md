@@ -57,13 +57,13 @@ pricing:
         - Anda menjaga kelangsungan web ini
         - Video demonstrasi pengunaan senjata
       plan: Small
-      price: '5'
+      price: '50.000'
     - description: Donasi Besar
       items:
         - Hak untuk menambah dan mengedit apa yang ada di web
         - Video demonstrasi yang leluasa
       plan: Big
-      price: '20'
+      price: '200.000'
     - description: Donasi Kustom
       items:
         - Hadiah Misterius
