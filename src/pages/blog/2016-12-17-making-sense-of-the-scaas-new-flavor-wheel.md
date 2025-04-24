@@ -3,13 +3,13 @@ templateKey: blog-post
 title: Memahami Pandai Besi Modern, Tradisi Berpadu dengan Teknologi
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/ms.jpg
 description: Penjelasan bagaimana teknologi Modern membantu para panda besi untuk membuat karya yang lebih banyak dan lebih berkualitas.
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/ms.jpg)
 
 Selama berabad-abad, pandai besi pedang telah menjadi seni sakral—yang diwariskan melalui magang, bekas luka, dan intuisi yang ditempa dengan api. Namun, seperti semua kerajinan lainnya, waktu membawa perubahan. Dan tahun ini, untuk pertama kalinya dalam beberapa dekade, kita melihat momentum serius dalam cara teknologi modern membentuk kembali bengkel.
 

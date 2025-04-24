@@ -3,13 +3,13 @@ templateKey: blog-post
 title: Tentang Longsword
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/ls2.jpg
 description: Di artikel ini, kita akan mencermati lebih dekat apa yang menjadikan pedang panjang klasik Eropa bukan sekadar peninggalan medan perang abad pertengahan, tetapi sebuah karya seni dari baja dirancang dengan tujuan tertentu, disempurnakan selama berabad-abad, dan masih dipuja hingga kini oleh para kolektor, seniman bela diri, dan perajin.
 tags:
   - Longsword
   - History
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/ls2.jpg)
 
 Longsword atau pedang penjang, dengan gagang berbentuk salib yang ikonik dan bilah bermata dua, menjadi terkenal pada akhir abad ke-13 dan tetap menjadi andalan budaya bela diri Eropa hingga abad ke-17. Jauh dari sekadar senjata yang kasar, pedang ini merupakan hasil rekayasa yang disempurnakan—mampu melakukan tusukan yang tepat dan pemotongan yang dahsyat, dirancang untuk memenuhi kebutuhan pertempuran dan duel yang terus berkembang.
 
