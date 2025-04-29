@@ -47,7 +47,7 @@ const Footer = () => {
                     {/* <li>
                       <a
                         className="navbar-item"
-                        href="/admin/"
+                        href="/admin/"f
                         target="_blank"
                         rel="noopener noreferrer"
                       >
