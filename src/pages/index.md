@@ -12,7 +12,7 @@ description: >-
   Steel Dance adalah tempat untuk para penggiat senjata tajam untuk menjelajahi segala hal yang meliputi
   tentang senjata- dari sejarah, teknik memakai, koleksi, dan lain-lain.
 subdescription: 
-  Test 123
+  Kita suka besi, anda juga suka besi, yang Tajam digunakan untuk menari.
 intro:
   blurbs:
     - image: /img/h.png
