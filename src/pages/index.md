@@ -12,8 +12,7 @@ description: >-
   Steel Dance adalah tempat untuk para penggiat senjata tajam untuk menjelajahi segala hal yang meliputi
   tentang senjata- dari sejarah, teknik memakai, koleksi, dan lain-lain.
 subdescription: 
-  Steel Dance adalah tempat untuk para penggiat senjata tajam untuk menjelajahi segala hal yang meliputi
-  tentang senjata- dari sejarah, teknik memakai, koleksi, dan lain-lain.
+  Test 123
 intro:
   blurbs:
     - image: /img/h.png
