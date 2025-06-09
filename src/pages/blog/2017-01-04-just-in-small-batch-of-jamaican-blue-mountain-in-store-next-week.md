@@ -9,6 +9,13 @@ tags:
   - Halberd
   - Discount
   - Thirty Years War
+  - Spear-Axe
+  - Medieval
+  - Early Modern
+  - Pike and Shot
+  - Europe
+  - Holy Roman Empire
+  - Steel
 ---
 
 Jumlahnya Terbatas, dan begitu habis, ya sudah. ​​Ini adalah karya yang setia pada sejarah, seimbang, dibuat untuk para kolektor, pemeran ulang, atau penggemar sejarah bela diri yang ingin memiliki sedikit warisan medan perang.
