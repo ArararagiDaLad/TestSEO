@@ -7,12 +7,12 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Steel Dance
   description: >
-    Tempat dimana segala hal tentang senjata besi tercatat
+    Steel Dance adalah tempat untuk menyimpan pengetahuan, seni, dan teknik yang didedikasikan untuk seni bertarung pedang yang tak lekang oleh waktu. Apakah Anda seorang praktisi, sejarawan, seniman bela diri, atau sekadar terpesona oleh keanggunan baja, Steel Dance menyatukan kearifan kuno dan praktik modern.
+    Dari keanggunan teknik-teknik yang mengalir hingga ketepatan brutal pertarungan pedang panjang, kami menjelajahi seni di balik ketajaman.
 description: >-
-  Steel Dance adalah tempat untuk para penggiat senjata tajam untuk menjelajahi segala hal yang meliputi
-  tentang senjata- dari sejarah, teknik memakai, koleksi, dan lain-lain.
+  Setiap artikel, produk besi, dan panduan yang ada di Steel Dance dibuat oleh orang-orang yang mencintai hal-hal tentang pedang—pejuang, sejarawan, pandai besi, dan peneliti nakal yang telah menghabiskan waktu yang mereka punya dalam perjuangan. Kami di sini bukan untuk memberi kuliah—kami di sini untuk berbagi, beradu argumen, dan tumbuh bersama.
 subdescription: 
-  Kita suka besi, anda juga suka besi, yang Tajam digunakan untuk menari.
+  Steel Dance adalah tempat baja bertemu jiwa. Selamat datang di seni yang bergerak.
 intro:
   blurbs:
     - image: /img/h.png
