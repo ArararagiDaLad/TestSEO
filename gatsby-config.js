@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
+    heading: "Selamat datang di Steel Dance",
     title: "Steel Dance",
-    description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+    description: "Website tentang Besi dan Teknik",
+    author: "Cisar Hayyiredin IX Johannes",
+    keywords: "Besi, Tarian, Pedang, Jual Pedang, Koleksi, Koleksi Besi, Koleksi Pedang, Sejarah, Sejarah Pedang, Sejarah Perang",
     url: "https://arthandcom.site/",
   },
   plugins: [
