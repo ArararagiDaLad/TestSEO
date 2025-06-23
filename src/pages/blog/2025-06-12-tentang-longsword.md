@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Tentang Longsword
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
