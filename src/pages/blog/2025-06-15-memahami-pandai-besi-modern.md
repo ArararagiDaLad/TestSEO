@@ -6,8 +6,16 @@ featuredpost: false
 featuredimage: /img/ms.jpg
 description: Penjelasan bagaimana teknologi Modern membantu para panda besi untuk membuat karya yang lebih banyak dan lebih berkualitas.
 tags:
-  - flavor
-  - tasting
+  - Steel Dance
+  - Medieval
+  - Western
+  - Early Modern
+  - Europe
+  - Tech
+  - Smithing
+  - Steel-making
+  - Sword-making
+  - Modern Smithing
 ---
 ![flavor wheel](/img/ms.jpg)
 

@@ -8,6 +8,14 @@ description: Di artikel ini, kita akan mencermati lebih dekat apa yang menjadika
 tags:
   - Longsword
   - History
+  - Steel
+  - Europe
+  - Sword
+  - Two-handed Sword
+  - Steel Dance
+  - Medieval
+  - Western
+  - Early Modern
 ---
 ![chemex](/img/ls2.jpg)
 
