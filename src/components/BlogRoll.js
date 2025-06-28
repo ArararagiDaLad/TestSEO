@@ -55,9 +55,6 @@ const BlogRollTemplate = (props) => {
           to={post.fields?.slug || '/'}
           >
             Keep Reading →
-            <span className="sr-only">
-              {post.frontmatter?.title ? ` tentang ${post.frontmatter.title}` : 'No Title'}
-            </span>
           </Link>
         </p>
       </article>
