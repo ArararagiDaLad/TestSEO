@@ -54,7 +54,8 @@ const BlogRollTemplate = (props) => {
           className="button" 
           to={post.fields?.slug || '/'}
           >
-            Keep Reading →
+            Baca Selengkapnya →
+            <span className="sr-only"> tentang {post.frontmatter?.title || 'tanpa judul'}</span>
           </Link>
         </p>
       </article>

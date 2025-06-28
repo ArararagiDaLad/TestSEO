@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 path: /blog
-title: 'Edisi terbatas: Diskon untuk Halberd sebagai perayaan Thirty Years War'
+title: 'Diskon untuk Halberd'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-

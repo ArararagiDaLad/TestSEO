@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog
-title: Memahami Pandai Besi Modern, Tradisi Berpadu dengan Teknologi
+title: Pandai Besi Modern
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/ms.jpg
