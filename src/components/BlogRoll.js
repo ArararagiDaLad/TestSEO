@@ -5,9 +5,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
 const BlogRollTemplate = (props) => {
-  
   const { edges: posts } = props.data.allMarkdownRemark;
-
   return (
     <div className="columns is-multiline">
      {posts && posts.length > 0 ? (
@@ -52,8 +50,14 @@ const BlogRollTemplate = (props) => {
           {post.excerpt}
           <br />
           <br />
-          <Link className="button" to={post.fields.slug}>
+          <Link 
+          className="button" 
+          to={post.fields?.slug || '/'}
+          >
             Keep Reading →
+            <span className="sr-only">
+              {post.frontmatter?.title ? ` tentang ${post.frontmatter.title}` : 'No Title'}
+            </span>
           </Link>
         </p>
       </article>
